@@ -1,0 +1,3 @@
+model	/home/yxy/base/CFO/relRNN/
+vocab	../vocab/
+data	../data/
